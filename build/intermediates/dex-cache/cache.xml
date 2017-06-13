@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/rong/Downloads/HeartRate-Edited/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_ad3a02faccb51588a70290f3d8ed738c9f16f8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rong/Downloads/HeartRate-Edited/app/libs/achartengine-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/Users/rong/Downloads/HeartRate-Edited/app/build/intermediates/pre-dexed/debug/achartengine-1.0.0_0376a23e9928188d86fa7a6c6e29e94d798364f1.jar" />
+    </item>
+
+</items>
